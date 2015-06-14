@@ -1,0 +1,15 @@
+INPUT(
+./release/main.o
+./release/mainwindow.o
+./release/modbus.o
+./release/settingsdialog.o
+./release/zaluzje.o
+./release/alarm.o
+./release/swiatlo.o
+./release/moc_mainwindow.o
+./release/moc_modbus.o
+./release/moc_settingsdialog.o
+./release/moc_zaluzje.o
+./release/moc_alarm.o
+./release/moc_swiatlo.o
+);

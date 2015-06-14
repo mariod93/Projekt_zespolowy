@@ -1,0 +1,15 @@
+INPUT(
+./debug/main.o
+./debug/mainwindow.o
+./debug/modbus.o
+./debug/settingsdialog.o
+./debug/zaluzje.o
+./debug/alarm.o
+./debug/swiatlo.o
+./debug/moc_mainwindow.o
+./debug/moc_modbus.o
+./debug/moc_settingsdialog.o
+./debug/moc_zaluzje.o
+./debug/moc_alarm.o
+./debug/moc_swiatlo.o
+);
